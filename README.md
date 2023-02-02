@@ -1,1 +1,1 @@
-My first readme
+All rights reserved
